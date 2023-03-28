@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-![image](https://user-images.githubusercontent.com/68444282/228308135-f62beac9-9bc8-4c85-bf3d-7f80c941e464.png)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juliuuss&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
