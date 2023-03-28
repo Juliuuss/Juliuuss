@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![image](https://user-images.githubusercontent.com/68444282/228308135-f62beac9-9bc8-4c85-bf3d-7f80c941e464.png)
+
+
+
 <!--
 **Juliuuss/Juliuuss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
