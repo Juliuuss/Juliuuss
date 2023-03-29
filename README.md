@@ -1,4 +1,4 @@
-# HOla, Soy Julio Espinoza :octocat:,
+# Hola, Soy Julio Espinoza :octocat:,
 
 Desarrollador FullStack en vias de aprendisazee y mejora continua de mis habilidades.
 
@@ -22,8 +22,8 @@ Como FullStack trabajo con todas las tecnologias mas utilizadas en el mercado:
 </a> 
 
 ---
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Juliuuss)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juliuuss&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Juliuuss&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juliuuss&layout=compact&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 
