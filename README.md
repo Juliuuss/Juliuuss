@@ -1,6 +1,7 @@
 # Hola, Soy Julio Espinoza :octocat:,
 
 Desarrollador FullStack en vias de aprendisazee y mejora continua de mis habilidades.
+![image](https://user-images.githubusercontent.com/68444282/228396383-ad3fd482-7062-43c1-b989-3492797c96a6.png)
 
 Actualmente estoy perfeccionando mis conocimientos en Pyhton enfocado en el BackEnd con Fast Api y Flask.
 
